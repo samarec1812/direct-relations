@@ -1,5 +1,5 @@
 # direct-relations
-Interpreter of direct relations
+### Interpreter of direct relations
 
 
 Run and create file .dot 
