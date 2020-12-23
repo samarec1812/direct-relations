@@ -9,5 +9,5 @@ go run main.go > mygraph.dot
 
 Convert dot code to image
 ```
-dot -Tpng -Gdpi=300 mygraph.dot > mygraph.p
+dot -Tpng -Gdpi=300 mygraph.dot > mygraph.png
 ```
