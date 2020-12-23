@@ -1,0 +1,10 @@
+digraph finite_state_machine {
+		rankdir=LR;
+		size="8,5"
+		node [fontname="Arial"; shape = box];
+	A [label="---"];
+	B [label="-->"];
+	C [label="<>"];
+	A -> B	[ label = "S(a)" ];
+	B -> C	[ label = "S($end)" ];
+}
